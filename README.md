@@ -1,3 +1,3 @@
-#WorldSkillFramework
-
-All methods are inlined to save time
+# WorldSkillFramework
+24시간동안 게임을 제작하는 기능경기대회 게임부문 참여를 위한 프레임워크 코드
+시간절약을 위해 간단한 구현과 최소한의 기능만 넣음
